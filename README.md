@@ -1,6 +1,6 @@
 # Human Variation Atlas
 
-A [visualization](https://xuanx1.github.io/ge-nome/Human%20Variation%20Atlas.html) of the **1000 Genomes Project** reference cohort — an animated DNA double helix that unwinds into the raw A·T·C·G sequence, surrounded by notes that draw out what the data revealed.
+A [visualisation](https://xuanx1.github.io/ge-nome/) of the **1000 Genomes Project** reference cohort — an animated DNA double helix that unwinds into the raw A·T·C·G sequence, surrounded by notes that draw out what the data revealed.
 
 Every figure is sourced from the project's own publications (1000 Genomes Project Consortium, *Nature* 2015; Byrska-Bishop et al., *Cell* 2022).
 
